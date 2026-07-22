@@ -4,6 +4,7 @@ resample.m is a matlab code used to resample precipitation and temperature from 
 
 
 Figure 3
+
 timeseries_annual_P.m is matlab script to create data (RCMs and ERA-I) to plot time-series in  figure 3a.
 timeseries_annual_P_ERAI.m is matlab script to create basin-average annual timeseries data for ERA-I to plot time-series in  figure 3a.
 timeseries_bias_P.m is a matlab script to create error data (for RCMs and APHRO) used in figure 3b.
