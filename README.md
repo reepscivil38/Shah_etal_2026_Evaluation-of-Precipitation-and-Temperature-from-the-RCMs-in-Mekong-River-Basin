@@ -18,4 +18,20 @@ timeseries_bias_tave.m is a matlab script to estimate bias in basin-average time
 
 timeseries_bias_tave_ERAI.m is a matlab script  to estimate bias in basin-average time-series of temperature from ERA-I using APHRO as reference to plot figure 3d.  
 
---
+01Workspace:    Visual Studio Code Workspace file
+
+Est_Statistics: Estimate relevant statistics
+
+Fig2:           generate figure 2
+
+Fig4_Taylor_w3ObsSets: generate Figure 4 Tyalor diagram
+
+Fig5-9:         generate Figures 5-9
+
+Fig10-11:       generate Figures 10-11
+
+FigS4-S17:      generate Supplmentary Figures S4-S17
+          
+
+##Folder specification
+Data folder (relative) path: "../Data/"
