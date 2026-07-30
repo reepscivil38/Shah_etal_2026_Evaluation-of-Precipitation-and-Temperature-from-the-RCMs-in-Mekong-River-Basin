@@ -32,6 +32,7 @@ Fig10-11:       generate Figures 10-11
 
 FigS4-S17:      generate Supplmentary Figures S4-S17
           
+KGE_annual_aphro.m, KGE_annual_CRU.m, KGE_annual_GPCC.m, and KGE_annual_ERA5.m are matlabs codes to estimate KGE between Reference products and RCM/ERA-I, as noted in table 2. 
 
 ##Folder specification
 Data folder (relative) path: "../Data/"
