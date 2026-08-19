@@ -33,5 +33,5 @@ Fig10-11:       generate Figures 10-11
 FigS4-S17:      generate Supplmentary Figures S4-S17
           
 
-##Folder specification
-Data folder (relative) path: "../Data/"
+#Data
+Data to run python code can be found at https://zenodo.org/uploads/10494536.  Where are Matlab needs data to be preapred in grid files from raw climate products files. 
