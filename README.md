@@ -34,4 +34,4 @@ FigS4-S17:      generate Supplmentary Figures S4-S17
           
 
 #Data
-Data to run python code can be found at https://zenodo.org/uploads/10494536.  Where are Matlab needs data to be preapred in grid files from raw climate products files. 
+Data to run python code can be found at https://doi.org/10.5281/zenodo.10494536.  Where are Matlab needs data to be preapred in grid files from raw climate products files. 
